@@ -1,11 +1,8 @@
-For the latest release info, see the [Release section](https://github.com/CenturyLinkCloud/Cyclops/releases).
 
 --------------------------------------------------------------------------------
 
-[![CenturyLink Cyclops](www/assets/img/centurylink-cyclops.png)](http://assets.ctl.io/)
-
 # CYCLOPS
-The UI/UX Pattern Guide for the CenturyLink Platform. View the latest version of Cyclops here: http://assets.ctl.io/
+The UI/UX Pattern Guide for Overhaul projects. View the latest version of Cyclops here: https://overhaul.github.io/Cyclops/
 
 ## Get Started
 Include the built cyclops javaScript and CSS files as well as the dependencies listed below. Add `.cyclops` to the `html` tag to properly scope the styles. This allows Cyclops to override any existing styles that have been defined by legacy markup. Documentation for cyclops can be viewed by running the development server `gulp dev`
@@ -44,18 +41,6 @@ Much of this pattern library is based on [Bootstrap](http://getbootstrap.com/). 
 
 #### [FontAwesome](http://fontawesome.io/)
 Many of the icons in the SVG icon library are based off of the work done by [FontAwesome](https://github.com/FortAwesome/Font-Awesome).
-
-#### Matthew Osborn
-* https://twitter.com/osbornm
-* https://github.com/osbornm
-
-#### Rathromony Ros
-* https://twitter.com/hellorathy
-* https://github.com/rathromony
-
-#### Nathan Young
-* https://twitter.com/nathanyoung
-* https://github.com/nathanyoung
 
 ## License
 
