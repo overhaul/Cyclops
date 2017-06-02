@@ -1,8 +1,8 @@
 
 --------------------------------------------------------------------------------
 
-# CYCLOPS
-The UI/UX Pattern Guide for Overhaul projects. View the latest version of Cyclops here: https://overhaul.github.io/Cyclops/
+# XENO
+The UI/UX Pattern Guide for Overhaul projects. View the latest version of Xeno here: https://overhaul.github.io/Xeno
 
 ## Get Started
 Include the built cyclops javaScript and CSS files as well as the dependencies listed below. Add `.cyclops` to the `html` tag to properly scope the styles. This allows Cyclops to override any existing styles that have been defined by legacy markup. Documentation for cyclops can be viewed by running the development server `gulp dev`
